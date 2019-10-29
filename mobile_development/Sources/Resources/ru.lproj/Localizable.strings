@@ -1,0 +1,46 @@
+"Loading" = "Загрузка"; // в библиотеке
+"Close" = "Закрыть"; // в библитеке
+"common-Yes" = "Да";
+"common-No" = "Нет";
+
+"repositories-LogOut-button" = "Выход";
+
+"login-login-button" = "Вход";
+
+"about-title" = "Об устройстве";
+"about–device" = "Устройство";
+"about-Device-Name" = "Имя устройства";
+"about-Operation-System" = "ОС";
+"about-OS-version" = "Версия ОС";
+"about-Carrier" = "Оператор";
+"about-Display-Diagonal" = "Диагональ дисплея";
+"about-PPI" = "Плотность пикселей";
+"about-Screen-Brightness" = "Яркость экрана";
+"about-Battery-Level" = "Уровень зарядки";
+"about-LowPowerMode" = "Режим энергосбережения";
+"about-Total-Storage" = "Емкость памяти";
+"about-Available-Storage" = "Доступно";
+"about-GB" = " ГБ";
+"about-unknown" = "Неизвестно";
+
+"contacts-title" = "Контакты";
+"contacts-No-access-to-contacts" = "Нет доступа к котактам";
+"contacts-Go-to-Setting-and-turn-on-access-to-Contacts" = "Перейдите в настройки и разрешите доступ";
+
+"map-Unknown-error" = "Неизвестная ошибка";
+"map-Network-error" = "Сетевая ошибка";
+"map-Remote-server-error" = "Ошибка удаленного сервера";
+"map-Error" = "Ошибка";
+"map-title" = "Карта";
+
+"calculator-title" = "Калькулятор";
+
+"camera-take-photo-button" = "Сделать фото";
+"camera-open-photo-library" = "Открыть медиатеку";
+
+"accelerometer-title-label" = "Aкселерометр";
+"accelerometer-X-axis" = "Ось X";
+"accelerometer-Y-axis" = "Ось Y";
+"accelerometer-Z-axis" = "Ось Z";
+
+"sensors-title" = "Сенсоры";

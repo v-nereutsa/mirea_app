@@ -1,0 +1,46 @@
+"Loading" = "Loading"; // в библиотеке
+"Close" = "Close"; // в библитеке
+"common-Yes" = "Yes";
+"common-No" = "No";
+
+"repositories-LogOut-button" = "Log Out";
+
+"login-login-button" = "Login";
+
+"about-title" = "About";
+"about–device" = "Device";
+"about-Device-Name" = "Device name";
+"about-Operation-System" = "Operationg System";
+"about-OS-version" = "OS version";
+"about-Carrier" = "Carrier";
+"about-Display-Diagonal" = "Display diagonal";
+"about-PPI" = "PPI";
+"about-Screen-Brightness" = "Screen brightness";
+"about-Battery-Level" = "Battery level";
+"about-LowPowerMode" = "Low Power mode";
+"about-Total-Storage" = "Total Storage";
+"about-Available-Storage" = "AvailableStorage";
+"about-GB" = " GB";
+"about-unknown" = "unknown";
+
+"contacts-title" = "Contacts";
+"contacts-No-access-to-contacts" = "No access to contacts";
+"contacts-Go-to-Setting-and-turn-on-access-to-Contacts" = "Go to Setting and turn on access to Contacts";
+
+"map-Unknown-error" = "Unknown error";
+"map-Network-error" = "Network error";
+"map-Remote-server-error" = "Remote server error";
+"map-Error" = "Error";
+"map-title" = "Map";
+
+"calculator-title" = "Calculator";
+
+"camera-take-photo-button" = "Take Photo";
+"camera-open-photo-library" = "Open Photo Library";
+
+"accelerometer-title-label" = "Accelerometer";
+"accelerometer-X-axis" = "X-axis";
+"accelerometer-Y-axis" = "Y-axis";
+"accelerometer-Z-axis" = "Z-axis";
+
+"sensors-title" = "Sensors";

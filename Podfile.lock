@@ -1,0 +1,52 @@
+PODS:
+  - BaseAPI (0.1.2)
+  - DeviceKit (1.11.0)
+  - GithubAPI (0.0.6):
+    - BaseAPI
+  - GitHubOAuthController (0.2.3)
+  - Realm (3.12.0):
+    - Realm/Headers (= 3.12.0)
+  - Realm/Headers (3.12.0)
+  - RealmSwift (3.12.0):
+    - Realm (= 3.12.0)
+  - YandexMapKit (3.2.0):
+    - YandexRuntime (~> 3.2)
+  - YandexMapKitTransport (3.2.0):
+    - YandexMapKit (~> 3.2)
+    - YandexRuntime (~> 3.2)
+  - YandexRuntime (3.2.0)
+
+DEPENDENCIES:
+  - DeviceKit (~> 1.3)
+  - GithubAPI
+  - GitHubOAuthController
+  - RealmSwift
+  - YandexMapKit (~> 3.1)
+  - YandexMapKitTransport (~> 3.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BaseAPI
+    - DeviceKit
+    - GithubAPI
+    - GitHubOAuthController
+    - Realm
+    - RealmSwift
+    - YandexMapKit
+    - YandexMapKitTransport
+    - YandexRuntime
+
+SPEC CHECKSUMS:
+  BaseAPI: e234e06c832a85154f34f09d6b626364059b1638
+  DeviceKit: a3a86f8dddbe1317a9a243cdf9646858bf135dce
+  GithubAPI: bc5bfd90489f5138a8d1e00003b18abe31579eb0
+  GitHubOAuthController: 9e86d37001282ed1bdd1d7f7534428754fa2a397
+  Realm: cdaef23c4ddb36ab1ddffed23f5a7f3332fc5585
+  RealmSwift: 5576324033f0aa5ef1e0a839a3da2281dff47a7f
+  YandexMapKit: 9bf046c69997348f07a37e587880bf18f147b8d3
+  YandexMapKitTransport: 63204c5097835196f81f7cda95c50ea01c1a2fb6
+  YandexRuntime: 1b2bf8365e5fec2fc91e9fda449fa7fae54b3d79
+
+PODFILE CHECKSUM: f4a5a4e0738f60aec8812ee5cfddd1b04fd83f6f
+
+COCOAPODS: 1.5.3

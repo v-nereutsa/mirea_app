@@ -1,0 +1,138 @@
+
+/* Class = "UIButton"; normalTitle = "Label"; ObjectID = "2DE-tT-T7u"; */
+"2DE-tT-T7u.normalTitle" = "Label";
+
+/* Class = "UIButton"; normalTitle = "×"; ObjectID = "866-MQ-JRf"; */
+"866-MQ-JRf.normalTitle" = "×";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "9LI-ue-G3z"; */
+"9LI-ue-G3z.text" = "0";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "9hG-5h-FBj"; */
+"9hG-5h-FBj.title" = "Карта";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "C84-g4-xbv"; */
+"C84-g4-xbv.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "5"; ObjectID = "DnP-eU-KYw"; */
+"DnP-eU-KYw.normalTitle" = "5";
+
+/* Class = "UIButton"; normalTitle = "±"; ObjectID = "HKu-N1-cVa"; */
+"HKu-N1-cVa.normalTitle" = "±";
+
+/* Class = "UIButton"; normalTitle = "–"; ObjectID = "JdX-uY-Ug3"; */
+"JdX-uY-Ug3.normalTitle" = "–";
+
+/* Class = "UIButton"; normalTitle = "3"; ObjectID = "Je4-b9-oNZ"; */
+"Je4-b9-oNZ.normalTitle" = "3";
+
+/* Class = "UIButton"; normalTitle = "8"; ObjectID = "K4Q-UK-DAo"; */
+"K4Q-UK-DAo.normalTitle" = "8";
+
+/* Class = "UILabel"; text = "Z axis"; ObjectID = "KlR-uS-jzP"; */
+"KlR-uS-jzP.text" = "Z axis";
+
+/* Class = "UIButton"; normalTitle = "."; ObjectID = "NqI-6B-xv5"; */
+"NqI-6B-xv5.normalTitle" = ".";
+
+/* Class = "UIButton"; normalTitle = "6"; ObjectID = "Oav-Uk-RAd"; */
+"Oav-Uk-RAd.normalTitle" = "6";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "RIN-SZ-LAK"; */
+"RIN-SZ-LAK.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "%"; ObjectID = "SnP-G8-GpU"; */
+"SnP-G8-GpU.normalTitle" = "%";
+
+/* Class = "UITabBarItem"; title = "GitHub"; ObjectID = "T1d-xb-Cb3"; */
+"T1d-xb-Cb3.title" = "GitHub";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "V9v-Vt-4V8"; */
+"V9v-Vt-4V8.normalTitle" = "4";
+
+/* Class = "UITabBarItem"; title = "Calculator"; ObjectID = "YcV-o2-Kpn"; */
+"YcV-o2-Kpn.title" = "Калькулятор";
+
+/* Class = "UITabBarItem"; title = "Sensors"; ObjectID = "YfD-HY-e1S"; */
+"YfD-HY-e1S.title" = "Сенсоры";
+
+/* Class = "UILabel"; text = "Accelerometer"; ObjectID = "am3-KD-Uqp"; */
+"am3-KD-Uqp.text" = "Accelerometer";
+
+/* Class = "UIButton"; normalTitle = "Take photo"; ObjectID = "auN-qD-qRI"; */
+"auN-qD-qRI.normalTitle" = "Take photo";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "b3m-BN-Qd2"; */
+"b3m-BN-Qd2.text" = "Detail";
+
+/* Class = "UIButton"; normalTitle = "="; ObjectID = "cHg-af-idt"; */
+"cHg-af-idt.normalTitle" = "=";
+
+/* Class = "UINavigationItem"; title = "Contacts"; ObjectID = "dR9-oz-wDp"; */
+"dR9-oz-wDp.title" = "Contacts";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fHP-Sx-iPH"; */
+"fHP-Sx-iPH.text" = "Label";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "fT3-gp-JFC"; */
+"fT3-gp-JFC.text" = "Detail";
+
+/* Class = "UILabel"; text = "Y axis"; ObjectID = "fhk-cj-Sky"; */
+"fhk-cj-Sky.text" = "Y axis";
+
+/* Class = "UINavigationItem"; title = "Map"; ObjectID = "g0J-Ef-lCu"; */
+"g0J-Ef-lCu.title" = "Map";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "h5R-g1-d1Z"; */
+"h5R-g1-d1Z.normalTitle" = "2";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iHq-fw-gQL"; */
+"iHq-fw-gQL.text" = "Label";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "jTO-LI-jGq"; */
+"jTO-LI-jGq.text" = "Subtitle";
+
+/* Class = "UIButton"; normalTitle = "AC"; ObjectID = "m1A-DY-T3c"; */
+"m1A-DY-T3c.normalTitle" = "AC";
+
+/* Class = "UINavigationItem"; title = "About"; ObjectID = "n6X-iT-RKV"; */
+"n6X-iT-RKV.title" = "About";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "nKw-JU-gmI"; */
+"nKw-JU-gmI.normalTitle" = "+";
+
+/* Class = "UIButton"; normalTitle = "Open Photo Library"; ObjectID = "ncH-aE-RsA"; */
+"ncH-aE-RsA.normalTitle" = "Open Photo Library";
+
+/* Class = "UILabel"; text = "X axis"; ObjectID = "rGa-E9-X7t"; */
+"rGa-E9-X7t.text" = "X axis";
+
+/* Class = "UIButton"; normalTitle = "7"; ObjectID = "rIG-Dq-8fZ"; */
+"rIG-Dq-8fZ.normalTitle" = "7";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "rQp-Ih-p03"; */
+"rQp-Ih-p03.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "9"; ObjectID = "sVe-1B-DH4"; */
+"sVe-1B-DH4.normalTitle" = "9";
+
+/* Class = "UIButton"; normalTitle = "0"; ObjectID = "sfn-Pw-IJl"; */
+"sfn-Pw-IJl.normalTitle" = "0";
+
+/* Class = "UITabBarItem"; title = "Sensors"; ObjectID = "tr7-U5-Cjk"; */
+"tr7-U5-Cjk.title" = "Сенсоры";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "wXG-A2-isU"; */
+"wXG-A2-isU.text" = "Title";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "waN-Vr-324"; */
+"waN-Vr-324.text" = "Title";
+
+/* Class = "UINavigationItem"; title = "Sensors"; ObjectID = "wd3-1e-SgC"; */
+"wd3-1e-SgC.title" = "Sensors";
+
+/* Class = "UIButton"; normalTitle = "÷"; ObjectID = "wfC-uF-6BL"; */
+"wfC-uF-6BL.normalTitle" = "÷";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "y0l-mG-kaR"; */
+"y0l-mG-kaR.normalTitle" = "1";

@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  mobile_development
+
+  Created by Владислав Игнатьев on 06.12.2018.
+  Copyright © 2018 Владимир Нереуца. All rights reserved.
+*/
+
+CFBundleDisplayName = "РТУ МИРЭА";

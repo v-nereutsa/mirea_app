@@ -1,0 +1,13 @@
+strings:
+  inputs: mobile_development/Sources/Resources/en.lproj/Localizable.strings
+  outputs:
+    - templateName: strings-structured
+      output: mobile_development/Sources/Core/Constants/Strings.swift
+      params:
+        enumName: LocalizedString
+
+xcassets:
+  inputs: mobile_development/Sources/Resources/Assets.xcassets
+  outputs:
+    - templateName: swift4
+      output: mobile_development/Sources/Core/Constants/Assets.swift
